@@ -1,2 +1,23 @@
 .header {
+  padding: 35px;
+  background-color: antiquewhite;
+}
+
+.nav-list-menu {
+  display: flex;
+  gap: 16px;
+}
+
+.linc-menu {
+  font-weight: 700;
+  font-size: 24px;
+  color: black;
+  padding: 16px 8px;
+  background-color: aquamarine;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.corrent-color {
+  color: orange;
 }
