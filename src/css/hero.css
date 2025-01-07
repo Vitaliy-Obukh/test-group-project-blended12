@@ -1,0 +1,35 @@
+.hero-page {
+    background-color: blueviolet;
+}
+
+.hero-title {
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 0.85714;
+    letter-spacing: -0.02em;
+    color: #0c0c0c;
+    margin-bottom: 48px;
+}
+
+.hero-title-part {
+    color: brown;
+}
+
+.hero-btn {
+    border-radius: 10px;
+    background-color: aqua;
+    padding: 16px 32px;
+    display: block;
+    height: 56px;
+    border: none;
+    margin: 0 auto;
+}
+
+.hero-btn-link {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: -0.02em;
+    text-decoration: none;
+    color: #0c0c0c;
+}
