@@ -1,5 +1,6 @@
 .hero-page {
-    background-color: blueviolet;
+    background: linear-gradient(180deg, rgba(237, 165, 255, 0.96) 0%, rgba(142, 99, 153, 0.96) 100%),
+        rgba(0, 0, 0, 0.2);
 }
 
 .hero-title {
